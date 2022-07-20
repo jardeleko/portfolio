@@ -6,8 +6,8 @@ title: Ferramentas
 Identificando algumas ferramentas e serviços na construção de projetos que ainda utilizo ou que tive gosto de ter tido contato, para isso, separei o conteúdo em quatro partes buscando organizar cada método. 
 
 1. Em primeiro, selecionei algumas linguagens que fazem parte da bagagem necessária para aprendizagem e elaboração dos projetos, houveram diversas outros que acabei tendo contato, entretanto, identifiquei algumas que realmente precisavam estar nesta seleção e justifiquei para o melhor entendimento. 
-2. Acredito que nesta seção eu tenha compartilhado pouco sobre o tanto de coisas legais que tive o prazer de utilizar, porém as principais se encontram no tópico 2.
-3. Da mesma forma, foram selecionados três bancos que são prioridades quando penso na criação dos serviços, tanto em projetos web/mobile quanto em programação de SGBD (construção de funções, triggers e transactions), testes de escala com a finalidade de analisar o desempenho. 
+2. Da mesma forma, foram selecionados três bancos que são prioridades quando penso na criação dos serviços, tanto em projetos web/mobile quanto em programação de SGBD (construção de funções, triggers e transactions), testes de escala com a finalidade de analisar o desempenho.
+3. Acredito que nesta seção eu tenha compartilhado pouco sobre o tanto de coisas legais que tive o prazer de utilizar, porém as principais se encontram no tópico 3. 
 4. Por fim, considerei trazer os servidores e plataformas que são essenciais ou dispositivos que utilizo por prazer, como por exemplo, Arduino e Raspberry.      
 
 <br>
